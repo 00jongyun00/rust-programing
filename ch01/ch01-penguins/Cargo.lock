@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "rust-programing"
+name = "ch01-penguins"
 version = "0.1.0"
